@@ -518,7 +518,10 @@ background-image: url("portback.webp");
     .submit{
         width: 66%;
     }
+    .newpadding{
+        padding: 5px 10px;
+    }
     .newpadd{
-        padding: 10px 50px;
+        padding: 3px 50px;
     }
 }
